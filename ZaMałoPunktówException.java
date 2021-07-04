@@ -1,5 +1,3 @@
-package GUI;
-
 public class ZaMałoPunktówException extends Exception{
 
     public ZaMałoPunktówException(){
