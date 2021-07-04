@@ -1,5 +1,3 @@
-package GUI;
-
 public class Chorzy implements Runnable{
 
     int liczbaChorych;
