@@ -1,5 +1,3 @@
-package GUI;
-
 import java.time.LocalTime;
 import java.util.Timer;
 import java.util.TimerTask;
