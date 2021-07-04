@@ -1,5 +1,3 @@
-package GUI;
-
 import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
